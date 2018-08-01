@@ -9,4 +9,5 @@ Git tracks changes.你们是不是再搞笑
 我龙妈又回来了!!!我是featuretwo分支的
 >>>>>>> feature2
 
+人生无常，事事有常。  --吃素的狮子
 
