@@ -1,5 +1,5 @@
 Git is a distributed version hehe control system.
-Git is free software 期待报错中 distributed under the GPL.
+Git is a free software 期待报错中 distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.你们是不是再搞笑
 再尝试一下修改文件2222
